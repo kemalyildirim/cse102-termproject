@@ -5,7 +5,7 @@ Algorithm and Programming Term Project
 
 Group Members :
 
-161805025 Kemal Yildirim
+161805025 Kemal Yildirim (leader)
 151805005 Alper Caliskan
 161805059 Oguz Bardakci
 
