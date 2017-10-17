@@ -8,8 +8,8 @@ Term Project
 
 Team Members:
 
-161805025 - Kemal Yıldırım (leader)\n
-151805005 - Alper Çalışkan\n
+161805025 - Kemal Yıldırım (leader)
+151805005 - Alper Çalışkan
 161805059 - Oğuz Bardakçı
 
 update date to github: 15.09.2017
